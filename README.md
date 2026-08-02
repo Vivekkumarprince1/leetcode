@@ -32,16 +32,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekkumarprince1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Vivekkumarprince1/leetcode/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivekkumarprince1/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekkumarprince1/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekkumarprince1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Vivekkumarprince1/leetcode/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekkumarprince1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Vivekkumarprince1/leetcode/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivekkumarprince1/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekkumarprince1/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
