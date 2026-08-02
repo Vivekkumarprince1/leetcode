@@ -10,7 +10,7 @@ public:
 
             if (nums[j] % 2 == 1) {
                 odd++;
-                count = 0;          // reset when a new odd enters
+                count = 0;        
             }
 
             while (odd == k) {
