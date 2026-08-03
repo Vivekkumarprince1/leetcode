@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vivekkumarprince1/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vivekkumarprince1/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Vivekkumarprince1/leetcode/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivekkumarprince1/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekkumarprince1/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivekkumarprince1/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekkumarprince1/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Vivekkumarprince1/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
