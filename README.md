@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vivekkumarprince1/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vivekkumarprince1/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vivekkumarprince1/leetcode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Vivekkumarprince1/leetcode/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivekkumarprince1/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekkumarprince1/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Vivekkumarprince1/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Vivekkumarprince1/leetcode/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
