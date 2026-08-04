@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekkumarprince1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vivekkumarprince1/leetcode/tree/master/0076-minimum-window-substring) |
+| [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Vivekkumarprince1/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Vivekkumarprince1/leetcode/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
@@ -75,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Vivekkumarprince1/leetcode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
