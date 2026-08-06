@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivekkumarprince1/leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Vivekkumarprince1/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Vivekkumarprince1/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
