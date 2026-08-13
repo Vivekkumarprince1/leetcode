@@ -1,23 +1,20 @@
 class Solution {
-public:
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = nullptr;
-        ListNode* curr = head;
 
-        while (curr) {
-            ListNode* nextNode = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextNode;
+        while (head) {
+            ListNode* nextNode = head->next;
+            head->next = prev;
+            prev = head;
+            head = nextNode;
         }
 
         return prev;
     }
 
+public:
     bool isPalindrome(ListNode* head) {
-        if (!head || !head->next) {
-            return true;
-        }
+        if (!head || !head->next) return true;
 
         ListNode* slow = head;
         ListNode* fast = head;
@@ -28,18 +25,20 @@ public:
         }
 
         ListNode* secondHalf = reverseList(slow->next);
-        ListNode* firstHalf = head;
+        ListNode* first = head;
         ListNode* second = secondHalf;
+        bool isPalindrome = true;
 
         while (second) {
-            if (firstHalf->val != second->val) {
-                return false;
+            if (first->val != second->val) {
+                isPalindrome = false;
+                break;
             }
-
-            firstHalf = firstHalf->next;
+            first = first->next;
             second = second->next;
         }
 
-        return true;
+        slow->next = reverseList(secondHalf);
+        return isPalindrome;
     }
 };
