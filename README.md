@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vivekkumarprince1/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vivekkumarprince1/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Vivekkumarprince1/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vivekkumarprince1/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vivekkumarprince1/leetcode/tree/master/0283-move-zeroes) |
@@ -91,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vivekkumarprince1/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vivekkumarprince1/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vivekkumarprince1/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -139,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vivekkumarprince1/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vivekkumarprince1/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vivekkumarprince1/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
