@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0189-rotate-array) |
+| [0887-super-egg-drop](https://github.com/Vivekkumarprince1/leetcode/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekkumarprince1/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Vivekkumarprince1/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Vivekkumarprince1/leetcode/tree/master/0704-binary-search) |
+| [0887-super-egg-drop](https://github.com/Vivekkumarprince1/leetcode/tree/master/0887-super-egg-drop) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0887-super-egg-drop](https://github.com/Vivekkumarprince1/leetcode/tree/master/0887-super-egg-drop) |
 ## Stack
 |  |
 | ------- |
