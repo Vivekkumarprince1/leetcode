@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vivekkumarprince1/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Vivekkumarprince1/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Vivekkumarprince1/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vivekkumarprince1/leetcode/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Vivekkumarprince1/leetcode/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0887-super-egg-drop](https://github.com/Vivekkumarprince1/leetcode/tree/master/0887-super-egg-drop) |
 ## Stack
