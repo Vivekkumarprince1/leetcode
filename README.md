@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vivekkumarprince1/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Vivekkumarprince1/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Vivekkumarprince1/leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Vivekkumarprince1/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Vivekkumarprince1/leetcode/tree/master/0136-single-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Vivekkumarprince1/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Vivekkumarprince1/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vivekkumarprince1/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vivekkumarprince1/leetcode/tree/master/0283-move-zeroes) |
@@ -91,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vivekkumarprince1/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Vivekkumarprince1/leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vivekkumarprince1/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Vivekkumarprince1/leetcode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekkumarprince1/leetcode/tree/master/0053-maximum-subarray) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vivekkumarprince1/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
