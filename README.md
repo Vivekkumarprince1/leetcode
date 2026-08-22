@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Vivekkumarprince1/leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Vivekkumarprince1/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Vivekkumarprince1/leetcode/tree/master/0118-pascals-triangle) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Vivekkumarprince1/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vivekkumarprince1/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Vivekkumarprince1/leetcode/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/Vivekkumarprince1/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivekkumarprince1/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vivekkumarprince1/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
