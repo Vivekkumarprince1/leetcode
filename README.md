@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Vivekkumarprince1/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Vivekkumarprince1/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vivekkumarprince1/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vivekkumarprince1/leetcode/tree/master/0040-combination-sum-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Vivekkumarprince1/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vivekkumarprince1/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vivekkumarprince1/leetcode/tree/master/0234-palindrome-linked-list) |
