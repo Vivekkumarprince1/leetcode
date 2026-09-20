@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vivekkumarprince1/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vivekkumarprince1/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Vivekkumarprince1/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vivekkumarprince1/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vivekkumarprince1/leetcode/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekkumarprince1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vivekkumarprince1/leetcode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Vivekkumarprince1/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vivekkumarprince1/leetcode/tree/master/0217-contains-duplicate) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivekkumarprince1/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekkumarprince1/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vivekkumarprince1/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vivekkumarprince1/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vivekkumarprince1/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Vivekkumarprince1/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vivekkumarprince1/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Vivekkumarprince1/leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekkumarprince1/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Vivekkumarprince1/leetcode/tree/master/0169-majority-element) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -208,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vivekkumarprince1/leetcode/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vivekkumarprince1/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vivekkumarprince1/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
